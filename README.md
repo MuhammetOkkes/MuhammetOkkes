@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*PEijqNwBPUGJG6AzWKln7A.jpeg)
+[![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
 <h1 align="center">Hi 👋, I'm MuhammetOkkes</h1>
 <h3 align="center">I'm a full stack developer from Türkiye.</h3>
 
